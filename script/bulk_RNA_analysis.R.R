@@ -3,7 +3,7 @@
 
 
 # This script demonstrates bulk RNA-Seq analysis workflow using a subset of publicly available samples.
-# Only 4 samples were selected for demonstration purposes.
+# Only 12 samples were selected for demonstration purposes.
 
 # Data source / citation:
 # Lee HK, Knabl L, Knabl Sr L, Wieser M, Mur A, Zabernigg A, Schumacher J, Kapferer S, Kaiser N, Furth PA, Hennighausen L. 
